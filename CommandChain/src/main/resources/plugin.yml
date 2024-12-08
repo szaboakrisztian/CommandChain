@@ -1,0 +1,8 @@
+name: CommandChain
+version: 1.0
+main: CommandChain.Chain
+api-version: 1.21
+commands:
+  chain:
+    description: Execute multiple commands
+    usage: /chain <command1>
